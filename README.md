@@ -1,3 +1,5 @@
 # POC-SVELTE
 
-install Playwright tester `npx playwright install`
+- install deps `yarn install`
+- run dev `yarn dev`
+- run tests `yarn test`
